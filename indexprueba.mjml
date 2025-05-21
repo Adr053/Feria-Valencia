@@ -1,0 +1,70 @@
+<mjml>
+  <mj-head>
+    <mj-title>Boletín Salón del Cómic de València</mj-title>
+    <mj-preview>Descubre las últimas noticias y promociones especiales</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-style>
+      .highlight { color: #ff4081; font-weight: bold; }
+    </mj-style>
+  </mj-head>
+    <mj-body background-color="#f4f4f4" font-family="Roboto, Helvetica, Arial, sans-serif">
+    <!--Cabecero-->
+    <mj-section background-color="#0B6F46" padding="20px 0">
+      <mj-column>
+        <mj-image src="https://www.saloncomicvalencia.com/wp-content/uploads/2024/09/cropped-Logosin.jpg" alt="Salón del Cómic de València" width="150px" />
+        <mj-text color="#ffffff" font-size="24px" align="center" font-weight="bold">
+          Boletín Informativo
+        </mj-text>
+        <mj-text color="#ffffff" align="center">Edición Marzo 2025</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Imagenes -->
+    <mj-section background-color="#1AAA6F">
+      <mj-column>
+        <mj-text font-size="20pxç" font-weight="bold" align="center" color="#ffffff">🎨 ¡Bienvenido al Salón del Cómic de València 2025!</mj-text>
+        <mj-image width="1000px" src="https://comicsybirras.com/wp-content/uploads/2025/02/SalonDelComicValencia2025.jpg" />
+      </mj-column>
+    </mj-section>
+   
+  
+  
+  
+  
+<!-- Noticias -->
+    <mj-section background-color="#1AAA6F" padding="20px">
+    <mj-column>
+        <mj-text font-size="20px" font-weight="bold" align="center" color="#ffffff">📰 Últimas Noticias</mj-text>
+        <mj-divider border-color="#cccccc" align="center" />
+         <mj-text color="#ffffff">
+                ¡Confirmado! Hemos rebajado el precio de las entradas para el Salón del Cómic de València 2025 a <span class="highlight">20 euros</span>.
+         </mj-text>
+            <mj-text color="#ffffff">
+                    Además, los primeros 100 compradores recibirán un <span class="highlight">cómic exclusivo</span> de regalo.
+            </mj-text>
+            <mj-text color="#ffffff">
+                ¡No te lo pierdas!
+            </mj-text>
+            <mj-text color="#ffffff">
+                <mj-text align="center" color="#ffffff">
+                    <a href="https://www.saloncomicvalencia.com/entradas" style="color:rgb(145, 70, 132); text-decoration: none;">Compra tus entradas aquí.</a>
+                </mj-text>
+            </mj-text>
+    </mj-column>
+    <mj-column>
+        <mj-text font-size="20px" font-weight="bold" align="center" color="#ffffff">🎉 Promociones Especiales</mj-text>
+        <mj-divider border-color="#cccccc" align="center" />
+        <mj-text color="#ffffff">
+            ¡Celebra con nosotros! La semana previa al evento, todas las entradas tendrán un <span class="highlight">20% de descuento</span>.
+        </mj-text>
+        <mj-text color="#ffffff">
+            Además, si compras 4 entradas, ¡la quinta es gratis!
+        </mj-text>
+        <mj-text color="#ffffff">
+            <mj-text align="center" color="#ffffff">
+                <a href="https://www.saloncomicvalencia.com/entradas" style="color:rgb(145, 70, 132); text-decoration: none;">Aprovecha la oferta aquí.</a>
+            </mj-text>
+        </mj-text>
+    </mj-column> 
+    </mj-section>
+   
