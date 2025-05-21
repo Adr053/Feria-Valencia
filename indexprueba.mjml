@@ -3,9 +3,6 @@
     <mj-title>Boletín Salón del Cómic de València</mj-title>
     <mj-preview>Descubre las últimas noticias y promociones especiales</mj-preview>
     <mj-font name="Roboto Condensec" href="https://fonts.google.com/specimen/Roboto+Condensed?preview.text=ffffffffefeff" />
-    <mj-style>
-      .highlight { color: #ff4081; font-weight: bold; }
-    </mj-style>
   </mj-head>
     <mj-body background-color="#f4f4f4" font-family="Roboto, Helvetica, Arial, sans-serif">
     <!--Cabecero-->
@@ -16,5 +13,12 @@
           Boletín Informativo
         </mj-text>
         <mj-text color="#ffffff" align="center">Edición Marzo 2025</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--Imagen-->
+    <mj-section background-color="#51B479" padding="0">
+      <mj-column>
+        <mj-image src="https://static.feriavalencia.com/comic/2025/scv-prin.jpg" width="600px" />
       </mj-column>
     </mj-section>
