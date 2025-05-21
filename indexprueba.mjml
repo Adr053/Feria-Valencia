@@ -1,24 +1,27 @@
 <mjml>
   <mj-head>
     <mj-title>Boletín Salón del Cómic de València</mj-title>
-    <mj-preview>Descubre las últimas noticias y promociones especiales</mj-preview>
-    <mj-font name="Roboto Condensec" href="https://fonts.google.com/specimen/Roboto+Condensed?preview.text=ffffffffefeff" />
+    <mj-font name="Candara" href="https://fonts.cdnfonts.com/css/calibri" />
   </mj-head>
-    <mj-body background-color="#f4f4f4" font-family="Roboto, Helvetica, Arial, sans-serif">
+  <mj-body background-color="#ffffff" width="600px">
     <!--Cabecero-->
     <mj-section background-color="#0B6F46" padding="20px 0">
       <mj-column>
         <mj-image src="https://www.saloncomicvalencia.com/wp-content/uploads/2024/09/cropped-Logosin.jpg" alt="Salón del Cómic de València" width="150px" />
-        <mj-text color="#ffffff" font-size="24px" align="center" font-weight="bold">
+        <mj-text font-family="Candara" color="#ffffff" font-size="24px" align="center" font-weight="bold">
           Boletín Informativo
         </mj-text>
         <mj-text color="#ffffff" align="center">Edición Marzo 2025</mj-text>
       </mj-column>
     </mj-section>
 
-    <!--Imagen-->
+    <!--Imagen del Header-->
     <mj-section background-color="#51B479" padding="0">
       <mj-column>
-        <mj-image src="https://static.feriavalencia.com/comic/2025/scv-prin.jpg" width="600px" />
+        <mj-image src="https://static.feriavalencia.com/comic/2025/scv-prin.jpg" width="600px" align="center" />
       </mj-column>
     </mj-section>
+
+    <!--Noticias-->
+    <mj-section background-color="#51B479" padding="20px 0">
+      <mj-column>
