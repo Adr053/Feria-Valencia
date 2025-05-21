@@ -32,39 +32,34 @@
   
   
 <!-- Noticias -->
-    <mj-section background-color="#1AAA6F" padding="20px">
-    <mj-column>
-        <mj-text font-size="20px" font-weight="bold" align="center" color="#ffffff">📰 Últimas Noticias</mj-text>
-        <mj-divider border-color="#cccccc" align="center" />
-         <mj-text color="#ffffff">
-                ¡Confirmado! Hemos rebajado el precio de las entradas para el Salón del Cómic de València 2025 a <span class="highlight">20 euros</span>.
-         </mj-text>
-            <mj-text color="#ffffff">
-                    Además, los primeros 100 compradores recibirán un <span class="highlight">cómic exclusivo</span> de regalo.
-            </mj-text>
-            <mj-text color="#ffffff">
-                ¡No te lo pierdas!
-            </mj-text>
-            <mj-text color="#ffffff">
-                <mj-text align="center" color="#ffffff">
-                    <a href="https://www.saloncomicvalencia.com/entradas" style="color:rgb(145, 70, 132); text-decoration: none;">Compra tus entradas aquí.</a>
-                </mj-text>
-            </mj-text>
-    </mj-column>
-    <mj-column>
-        <mj-text font-size="20px" font-weight="bold" align="center" color="#ffffff">🎉 Promociones Especiales</mj-text>
-        <mj-divider border-color="#cccccc" align="center" />
-        <mj-text color="#ffffff">
-            ¡Celebra con nosotros! La semana previa al evento, todas las entradas tendrán un <span class="highlight">20% de descuento</span>.
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold" align="center" color="#0B6F46">📰 Noticias Recientes</mj-text>
+        <mj-text font-size="16px" color="#333333">
+          ¡Estamos emocionados de anunciar que el Salón del Cómic de València 2025 se celebrará del 28 de Febrero al 2 de marzo! Este año, contaremos con la presencia de artistas internacionales y actividades para toda la familia.
         </mj-text>
-        <mj-text color="#ffffff">
-            Además, si compras 4 entradas, ¡la quinta es gratis!
-        </mj-text>
-        <mj-text color="#ffffff">
-            <mj-text align="center" color="#ffffff">
-                <a href="https://www.saloncomicvalencia.com/entradas" style="color:rgb(145, 70, 132); text-decoration: none;">Aprovecha la oferta aquí.</a>
-            </mj-text>
-        </mj-text>
-    </mj-column> 
+        <mj-button background-color="#0B6F46" color="#ffffff" href="https://www.saloncomicvalencia.com/noticias/" font-size="16px">Leer más</mj-button>
+      </mj-column>
     </mj-section>
-   
+
+    <!-- Promociones -->
+    <mj-section background-color="#f4f4f4">
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold" align="center" color="#0B6F46">🎁 Promociones Especiales</mj-text>
+        <mj-text font-size="16px" color="#333333">
+          Compra tus entradas anticipadas y obtén un 20% de descuento. ¡No te lo pierdas!
+        </mj-text>
+        <mj-button background-color="#0B6F46" color="#ffffff" href="https://www.saloncomicvalencia.com/entradas/" font-size="16px">Comprar Entradas</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#0B6F46" padding="20px">
+      <mj-column>
+        <mj-text color="#ffffff" align="center">
+          &copy; 2025 Salón del Cómic de València. Todos los derechos reservados.
+        </mj-text>
+        <mj-social font-size="20px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/salondelcomicvalencia/" />
+          <mj-social-element name="twitter" href="https://twitter.com/salondelcomicv"/>
+          <mj-social-element name="instagram" href="https://www.instagram.com/salondelcomicvalencia/"/>
