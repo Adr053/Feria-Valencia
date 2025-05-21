@@ -22,6 +22,31 @@
       </mj-column>
     </mj-section>
 
-    <!--Noticias-->
+    <!--Aununcio entrada-->
     <mj-section background-color="#51B479" padding="20px 0">
       <mj-column>
+        <mj-text font-family="Candara" color="#ffffff" font-size="20px" align="center" font-weight="bold">
+          Vuelve el Salón del Cómic de València!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--Galeria de Imagene numero 1-->
+    <mj-hero mode="fixed-height" height="270px" background-width="600px" background-height="350px" background-url="https://i.postimg.cc/50VD80Jg/Dise-o-sin-t-tulo-5.png" background-color="#51B479">
+      <mj-text font-family="Candara" color="#222" font-size="22px" align="center" padding-top="40px" font-weight="1000">
+        El Salón del Cómic de València se celebrará del 28 de Febrero al 2 de Marzo de 2025 en Feria Valencia. ¡No te lo pierdas!
+      </mj-text>
+      <mj-button background-color="#ffffff" color="#51B479" font-family="Candara" href="https://www.saloncomicvalencia.com/" border-radius="30px" padding="12px 32px">
+        Más información aquí
+      </mj-button>
+    </mj-hero>
+    <!--Galeria de Imagenes numero 2-->
+    <mj-section background-color="#51B479" padding="20px 0">
+      <mj-column>
+        <mj-text font-family="Candara" color="#ffffff" font-size="20px" align="center" font-weight="bold">
+          ¡No te pierdas las últimas novedades!
+        </mj-text>
+
+
+        
+
