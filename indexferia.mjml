@@ -26,10 +26,10 @@
         <mj-section background-color="#48AB70" padding="20px 0" text-align="center">
             <mj-column>
                 <mj-text color="#ffffff" font-size="20px" align="center" font-weight="bold">
-                    ¡No te pierdas las últimas novedades!
+                    📰 Últimas noticias y promociones 🕑
                 </mj-text>
                 <mj-text color="#ffffff" font-size="16px" align="center">
-                    El Salón del Cómic de València se celebrará del 28 de Febrero al 2 de Marzo de 2025 en Feria Valencia. ¡No te lo pierdas! 
+                    Aquí te hemos preparado una selección de las últimas noticias y promociones del Salón del Cómic de València.
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -40,7 +40,7 @@
             <mj-text color="#ffffff" font-size="18px" align="center" padding-bottom="20px">
                 Consigue tu entrada anticipada y disfruta de un descuento exclusivo. ¡No te lo pierdas!
             </mj-text>
-        <mj-button href="https://mjml.io/" align="center">
+        <mj-button href="https://www.saloncomicvalencia.com/visitar/" align="center">
         Consigue tu entrada
         </mj-button>
         </mj-hero>
@@ -57,3 +57,36 @@
                 </mj-image>
                 <mj-image src="https://i0.wp.com/efe.com/wp-content/uploads/2023/09/GRAFAND6676-ESPANA-ARTE-COMIC.jpg?fit=1920%2C1161&ssl=1" width="400px" align="center" />
             </mj-column>
+        </mj-section>
+        <mj-section background-color="#48AB70" padding="20px 0" text-align="center">
+            <mj-column>
+                <mj-text color="#ffffff" font-size="20px" align="center" font-weight="bold">
+                    ¡Comprando un pack de 4 entradas, te regalamos un cómic a elegir!
+                </mj-text>
+                <mj-text color="#ffffff" font-size="16px" align="center">
+                    Elige entre "El arte de volar" de Antonio Altarriba y Kim, "El viaje de los sueños" de José Luis Munuera, o "La casa de los espíritus" de Isabel Allende.
+                    *Unicamente para compras de entrada online*
+                </mj-text>
+                <mj-button href="https://www.saloncomicvalencia.com/visitar/" align="center" border-radius="50px" padding="16px 32px">
+                Mas información aquí
+                </mj-button>
+           
+            <mj-section>
+                <mj-column background-color="#3C915E" padding="20px">
+                    <mj-text font-size="12px" color="#ffffff" align="center">
+                    © 2025 Feria Valencia. Todos los derechos reservados.
+                    </mj-text>
+                    <mj-text font-size="12px" color="#ffffff" align="center">
+                    Av. de les Fires, s/n, Pobles de l'Oest, 46035 València
+                    </mj-text>
+                    <mj-social font-size="15px" mode="horizontal" align="center" color="#ffffff">
+                    <mj-social-element name="facebook" href="https://www.facebook.com/feriavalencia/?locale=es_ES" />
+                    <mj-social-element name="twitter" href="https://x.com/feria_valencia?lang=es" />
+                    <mj-social-element name="instagram" href="https://www.instagram.com/feriavalencia/?hl=es" />
+                    <mj-social-element name="linkedin" href="https://es.linkedin.com/company/feria-valencia" />
+                    <mj-social-element name="youtube" href="https://www.youtube.com/user/FeriaValencia" />  
+                    </mj-social>
+                </mj-column>
+            </mj-section>
+        </mj-body>
+        </mjml>
