@@ -1,0 +1,59 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-color="#3C915E" background-repeat="repeat" padding="20px 0" text-align="center" >
+      <mj-column>
+        <mj-image align="left" padding="10px 25px" src="https://fimma-maderalia.feriavalencia.com/wp-content/uploads/2019/02/LOGO-FERIA-VALENCIA-OK.jpg" width="70px"></mj-image>
+        <mj-text color="#ffffff" font-size="24px" align="center" font-weight="bold">
+          Vuelve el Salón del Cómic de València!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#48AB70" background-repeat="repeat" padding="20px 0" text-align="center">
+        <mj-column>
+            <mj-image align="center" padding="10px 25px" src="https://static.feriavalencia.com/comic/2025/scv-prin.jpg" width="1980px"></mj-image>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#48AB70" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-text color="#ffffff" font-size="20px" align="center" font-weight="bold">
+          ¡No te pierdas las últimas novedades!
+        </mj-text>
+        <mj-text color="#ffffff" font-size="16px" align="center">
+          El Salón del Cómic de València se celebrará del 28 de Febrero al 2 de Marzo de 2025 en Feria Valencia. ¡No te lo pierdas! 
+        </mj-text>
+        <mj-image src="https://d31u1w5651ly23.cloudfront.net/articulos/articulos-706782.jpg" width="600px" align="center" />
+        </mj-section>
+        <mj-section background-color="#48AB70" padding="20px 0" text-align="center">
+            <mj-column>
+                <mj-text color="#ffffff" font-size="20px" align="center" font-weight="bold">
+                    ¡No te pierdas las últimas novedades!
+                </mj-text>
+                <mj-text color="#ffffff" font-size="16px" align="center">
+                    El Salón del Cómic de València se celebrará del 28 de Febrero al 2 de Marzo de 2025 en Feria Valencia. ¡No te lo pierdas! 
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-hero mode="fixed-height" height="400px" background-width="600px" background-height="400px" background-color="#48AB70" background-url="https://www.saloncomicvalencia.com/wp-content/uploads/2024/03/SALON-DEL-COMIC-DE-VALENCIA-2024-14.jpg">
+            <mj-text color="#ffffff" font-size="28px" align="center" font-weight="bold" padding-bottom="10px">
+                Ya están disponibles las entradas para el Salón del Cómic de València
+            </mj-text>
+            <mj-text color="#ffffff" font-size="18px" align="center" padding-bottom="20px">
+                Consigue tu entrada anticipada y disfruta de un descuento exclusivo. ¡No te lo pierdas!
+            </mj-text>
+        <mj-button href="https://mjml.io/" align="center">
+        Consigue tu entrada
+        </mj-button>
+        </mj-hero>
+
+        <mj-section background-color="#48AB70" padding="20px 0" text-align="center">
+            <mj-column>
+                <mj-text color="#ffffff" font-size="20px" align="center" font-weight="bold">
+                    Ya tenemos los primeros invitados confirmados!
+                </mj-text>
+                <mj-text color="#ffffff" font-size="16px" align="center">
+                    Emil Ferris, autora de "Lo que mas me gusta de los monstruos", y David Rubín, autor de "El héroe", estarán presentes en esta edición del Salón del Cómic de València. ¡No te los pierdas!
+                </mj-text>
+                <mj-image src="https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Fep01.epimg.net%2Fcultura%2Fimagenes%2F2019%2F05%2F07%2Factualidad%2F1557250380_509313_1557321832_noticia_fotograma.jpg?auth=b40e48df7873987f9299093ed9181959abdf28ba8c21e31f6861dea744fa1574&width=1960&height=1470&smart=true" width="400px" align="center" />
+                </mj-image>
+                <mj-image src="https://i0.wp.com/efe.com/wp-content/uploads/2023/09/GRAFAND6676-ESPANA-ARTE-COMIC.jpg?fit=1920%2C1161&ssl=1" width="400px" align="center" />
+            </mj-column>
