@@ -24,7 +24,7 @@
           Todos los que cumplimenten el formulario de las entradas a la feria antes del <strong>1 de septiembre</strong> entrarán en el sorteo.
         </mj-text>
         <mj-image src="https://practicas.feriavalencia.com/wp-content/uploads/2025/05/img1_2ruedas1.jpg" width="600px" align="center" />
-        <mj-button href="https://tuenlaceaelformulario.com" background-color="#C70039" color="#ffffff" font-weight="bold" padding="15px 30px" border-radius="5px" font-size="16px" align="center" >
+        <mj-button href="https://dosruedas.feriavalencia.com/" background-color="#C70039" color="#ffffff" font-weight="bold" padding="15px 30px" border-radius="5px" font-size="16px" align="center" >
           Rellena el formulario y participa
         </mj-button>
       </mj-column>
