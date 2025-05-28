@@ -1,0 +1,92 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-color="#3C915E" background-repeat="repeat" padding="20px 0" text-align="center" >
+      <mj-column>
+        <mj-image align="left" padding="10px 25px" src="https://fimma-maderalia.feriavalencia.com/wp-content/uploads/2019/02/LOGO-FERIA-VALENCIA-OK.jpg" width="70px"></mj-image>
+        <mj-text color="#ffffff" font-size="24px" align="center" font-weight="bold">
+          The Valencia Comic Fair is back!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#48AB70" background-repeat="repeat" padding="20px 0" text-align="center">
+        <mj-column>
+            <mj-image align="center" padding="10px 25px" src="https://static.feriavalencia.com/comic/2025/scv-prin.jpg" width="1980px"></mj-image>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#48AB70" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-text color="#ffffff" font-size="20px" align="center" font-weight="bold">
+          Don’t miss the latest news!
+        </mj-text>
+        <mj-text color="#ffffff" font-size="16px" align="center">
+          The Valencia Comic Fair will take place from February 28th to March 2nd, 2025 at Feria Valencia. Don’t miss it!
+        </mj-text>
+        <mj-image src="https://d31u1w5651ly23.cloudfront.net/articulos/articulos-706782.jpg" width="600px" align="center" />
+    </mj-section>
+    <mj-section background-color="#48AB70" padding="20px 0" text-align="center">
+        <mj-column>
+            <mj-text color="#ffffff" font-size="20px" align="center" font-weight="bold">
+                📰 Latest news and promotions 🕑
+            </mj-text>
+            <mj-text color="#ffffff" font-size="16px" align="center">
+                Here we have prepared a selection of the latest news and promotions from the Valencia Comic Fair.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-hero mode="fixed-height" height="400px" background-width="600px" background-height="400px" background-color="#48AB70" background-url="https://www.saloncomicvalencia.com/wp-content/uploads/2024/03/SALON-DEL-COMIC-DE-VALENCIA-2024-14.jpg">
+        <mj-text color="#ffffff" font-size="28px" align="center" font-weight="bold" padding-bottom="10px">
+            Tickets for the Valencia Comic Fair are now available
+        </mj-text>
+        <mj-text color="#ffffff" font-size="18px" align="center" padding-bottom="20px">
+            Get your early bird ticket and enjoy an exclusive discount. Don’t miss out!
+        </mj-text>
+        <mj-button href="https://www.saloncomicvalencia.com/visitar/" align="center">
+          Get your ticket
+        </mj-button>
+    </mj-hero>
+
+    <mj-section background-color="#48AB70" padding="20px 0" text-align="center">
+        <mj-column>
+            <mj-text color="#ffffff" font-size="20px" align="center" font-weight="bold">
+                We have our first confirmed guests!
+            </mj-text>
+            <mj-text color="#ffffff" font-size="16px" align="center">
+                Emil Ferris, author of "My Favorite Thing Is Monsters," and David Rubín, author of "The Hero," will be present at this edition of the Valencia Comic Fair. Don’t miss them!
+            </mj-text>
+            <mj-image src="https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Fep01.epimg.net%2Fcultura%2Fimagenes%2F2019%2F05%2F07%2Factualidad%2F1557250380_509313_1557321832_noticia_fotograma.jpg?auth=b40e48df7873987f9299093ed9181959abdf28ba8c21e31f6861dea744fa1574&width=1960&height=1470&smart=true" width="400px" align="center" />
+            <mj-image src="https://i0.wp.com/efe.com/wp-content/uploads/2023/09/GRAFAND6676-ESPANA-ARTE-COMIC.jpg?fit=1920%2C1161&ssl=1" width="400px" align="center" />
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#48AB70" padding="20px 0" text-align="center">
+        <mj-column>
+            <mj-text color="#ffffff" font-size="20px" align="center" font-weight="bold">
+                Buy a pack of 4 tickets and get a comic of your choice for free!
+            </mj-text>
+            <mj-text color="#ffffff" font-size="16px" align="center">
+                Choose from "The Art of Flying" by Antonio Altarriba and Kim, "The Journey of Dreams" by José Luis Munuera, or "The House of the Spirits" by Isabel Allende.
+                *Only for online ticket purchases*
+            </mj-text>
+            <mj-button href="https://www.saloncomicvalencia.com/visitar/" align="center" border-radius="50px" padding="16px 32px">
+              More information here
+            </mj-button>
+        </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-column background-color="#3C915E" padding="20px">
+            <mj-text font-size="12px" color="#ffffff" align="center">
+            © 2025 Feria Valencia. All rights reserved.
+            </mj-text>
+            <mj-text font-size="12px" color="#ffffff" align="center">
+            Av. de les Fires, s/n, Pobles de l'Oest, 46035 Valencia
+            </mj-text>
+            <mj-social font-size="15px" mode="horizontal" align="center" color="#ffffff">
+              <mj-social-element name="facebook" href="https://www.facebook.com/feriavalencia/?locale=es_ES" />
+              <mj-social-element name="twitter" href="https://x.com/feria_valencia?lang=es" />
+              <mj-social-element name="instagram" href="https://www.instagram.com/feriavalencia/?hl=es" />
+              <mj-social-element name="linkedin" href="https://es.linkedin.com/company/feria-valencia" />
+              <mj-social-element name="youtube" href="https://www.youtube.com/user/FeriaValencia" />  
+            </mj-social>
+        </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
