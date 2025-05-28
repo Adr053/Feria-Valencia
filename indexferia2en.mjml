@@ -1,0 +1,56 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#F4F4F4">
+    <mj-section background-color="#C70039" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="left" padding="10px 25px" src="https://fimma-maderalia.feriavalencia.com/wp-content/uploads/2019/02/LOGO-FERIA-VALENCIA-OK.jpg" width="70px"></mj-image>
+        <mj-text color="#ffffff" font-size="24px" align="center" font-weight="bold">
+          We’re giving away 2 tickets to see the Cheste Motorcycle GP!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#E43939" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding="10px 25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaMrDm7Kcdf6uUo-2R_FCvHQvb31HUCnrOMA&s" width="600px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#E43939" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-text color="#ffffff" font-size="20px" align="center" font-weight="bold">
+          Yes, we are giving away 2 tickets!
+        </mj-text>
+        <mj-text color="#ffffff" font-size="16px" align="center" padding="0 20px">
+          Everyone who fills out the ticket form for the fair before <strong>September 1st</strong> will enter the giveaway.
+        </mj-text>
+        <mj-image src="https://practicas.feriavalencia.com/wp-content/uploads/2025/05/img1_2ruedas1.jpg" width="600px" align="center" />
+        <mj-button href="https://dosruedas.feriavalencia.com/" background-color="#C70039" color="#ffffff" font-weight="bold" padding="15px 30px" border-radius="5px" font-size="16px" align="center" >
+          Fill out the form and participate
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#E43939" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-text color="#ffffff" font-size="14px" align="center" padding="0 20px">
+          * The giveaway is only valid for entries submitted before September 1st. Check the terms and conditions on our website.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#C70039" padding="20px" text-align="center">
+      <mj-column>
+        <mj-text font-size="12px" color="#ffffff" align="center">
+          © 2025 Feria Valencia. All rights reserved.<br />
+          Av. de les Fires, s/n, Pobles de l'Oest, 46035 València
+        </mj-text>
+        <mj-social font-size="15px" mode="horizontal" align="center" color="#ffffff">
+          <mj-social-element name="facebook" href="https://www.facebook.com/feriavalencia/?locale=es_ES" />
+          <mj-social-element name="twitter" href="https://x.com/feria_valencia?lang=es" />
+          <mj-social-element name="instagram" href="https://www.instagram.com/feriavalencia/?hl=es" />
+          <mj-social-element name="linkedin" href="https://es.linkedin.com/company/feria-valencia" />
+          <mj-social-element name="youtube" href="https://www.youtube.com/user/FeriaValencia" />  
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
