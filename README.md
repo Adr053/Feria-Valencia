@@ -3,7 +3,7 @@
 Este proyecto consiste en el diseño y despliegue de una campaña de marketing digital para **Feria Valencia**, abordando dos eventos principales:
 
 - **Salón del Cómic**
-- **Salón de la Moto**
+- **Salón de la Moto y de la Bici**
 
 ## 🧩 Tecnologías Utilizadas
 
