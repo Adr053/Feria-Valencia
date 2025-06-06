@@ -17,7 +17,6 @@ Este proyecto consiste en el diseño y despliegue de prácticas para **Feria Val
 
 - Envío de campañas a través de Nodemailer (SMTP)
 - Panel de administración local para visualizar y gestionar campañas
-- Acceso por HTTP al front-end
 - Acceso a la base de datos desde el Workbench
 
 
